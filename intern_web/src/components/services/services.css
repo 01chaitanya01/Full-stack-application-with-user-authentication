@@ -1,0 +1,20 @@
+.servicesec-1 {
+    height: 50vh;
+}
+
+.servicesec-1 .services-1-content {
+    width: 80%;
+    margin-left: 10%;
+    position: absolute;
+    top: 12vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 20px;
+}
+
+.services-1-content p{
+    font-size: 1.2rem;
+    /* width: ; */
+}
